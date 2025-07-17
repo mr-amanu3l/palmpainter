@@ -35,11 +35,11 @@ PalmPainter uses advanced hand-tracking to convert gestures into digital brushst
 ## 🗂️ Project Structure
 
 PalmPainter/
-├── index.html # Landing page with project showcase (no drawing logic)
-├── app.html # Main drawing interface with video stream and canvas
-├── app.js # All gesture recognition and drawing logic
-├── app.css # UI and layout styles
-├── assets/ # Optional: images, icons, banners
+-├── index.html # Landing page with project showcase (no drawing logic)
+-├── app.html # Main drawing interface with video stream and canvas
+-├── app.js # All gesture recognition and drawing logic
+-├── app.css # UI and layout styles
+-├── assets/ # Optional: images, icons, banners
 
 ---
 
